@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "enabled": false,
+  "moveName": "Blizzard",
+  "replaceNative": true,
+  "oncePerTurn": true,
+  "durationTicks": 30,
+  "events": [
+    {
+      "tick": 0,
+      "effect": "blizzard"
+    }
+  ]
+}

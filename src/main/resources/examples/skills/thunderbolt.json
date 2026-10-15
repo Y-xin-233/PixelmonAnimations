@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "enabled": false,
+  "moveId": 122,
+  "moveName": "Thunderbolt",
+  "replaceNative": true,
+  "oncePerTurn": true,
+  "durationTicks": 30,
+  "events": [
+    {
+      "tick": 0,
+      "effect": "electric_beam",
+      "groundedStart": false,
+      "groundedEnd": false
+    },
+    {
+      "tick": 12,
+      "effect": "electric_impact",
+      "groundedStart": false,
+      "groundedEnd": false
+    }
+  ]
+}

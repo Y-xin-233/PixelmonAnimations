@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "enabled": false,
+  "moveId": 122,
+  "moveName": "Thunderbolt",
+  "replaceNative": true,
+  "oncePerTurn": true,
+  "durationTicks": 30,
+  "events": [
+    {
+      "tick": 0,
+      "effect": "thunderbolt_pikachu"
+    }
+  ]
+}

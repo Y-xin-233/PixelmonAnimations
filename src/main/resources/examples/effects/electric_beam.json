@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "id": "electric_beam",
+  "renderer": "native_particle",
+  "type": "beam",
+  "texture": "NORMAL",
+  "rgb": [120, 210, 255],
+  "power": 80,
+  "scale": 0.4,
+  "speed": 0.7,
+  "segments": 20,
+  "variation": 0.25,
+  "inverted": false
+}

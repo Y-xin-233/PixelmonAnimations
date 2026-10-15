@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "id": "electric_impact",
+  "renderer": "native_particle",
+  "type": "explosion",
+  "texture": "NORMAL",
+  "rgb": [255, 235, 100],
+  "power": 30,
+  "speed": 0.3,
+  "lifetimeTicks": 15,
+  "atTarget": true
+}

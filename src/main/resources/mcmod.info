@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelmonanimations",
+  "name": "PixelmonAnimations",
+  "description": "External battle animation configurations for Pixelmon 8.4.3.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xin_233"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["pixelmon", "mixinbooter"]
+}
+]

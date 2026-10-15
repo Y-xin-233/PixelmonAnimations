@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.xin_233.animations.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "AttackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
